@@ -1,0 +1,8 @@
+Origin: OuniDesign Repo
+Label: OuniDesign Repo
+Suite: beta
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: official OuniDesign repo

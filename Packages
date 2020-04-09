@@ -1,0 +1,34 @@
+Package: com.Ounikarim.Bionic
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: Ouni Karim <ouni188@gmail.com>
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debs/Bionic.deb
+Size: 37151412
+MD5sum: 5bb0e067aa54305e99debed91803e533
+SHA1: 3e16686d8f08cbf93c3150c0b70ad204b2bb06d7
+SHA256: 43c82faff1a3c55cf9e834f995e76ddf3f67c17a72fe5e2bfef3bb1823db887a
+Section: Themes
+Homepage: https://twitter.com/ka024_
+Description: Best theme for your iOS !
+Author: Ouni Karim <ouni188@gmail.com>
+Icon: file:///Library/Themes/Bionic - Icons.theme/Icon.png
+Name: Bionic
+
+Package: com.Ounikarim.BionicDARK
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: Ouni Karim <ouni188@gmail.com>
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debs/BionicDARK.deb
+Size: 35302652
+MD5sum: ed607cf975ca8569ba1b4002d1142d14
+SHA1: 430fc0770c19b81685d93def02bc3380cf4e5f48
+SHA256: 7b1fbf4e9b285462dd32fc19635b8dfd2ed20361f96d4c4e8a8548b0888b6d73
+Section: Themes
+Homepage: https://twitter.com/ka024_
+Description: make a Darken view !
+Author: Ouni Karim <ouni188@gmail.com>
+Icon: file:///Library/Themes/Bionic DARK - Icons.theme/Icon.png
+Name: Bionic Dark
+

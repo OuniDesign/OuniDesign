@@ -1,0 +1,11 @@
+Package: com.Ounikarim.Bionic
+Name: Bionic
+Version: 2.0.2
+Section: Themes
+Architecture: iphoneos-arm
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Author: Ouni Karim <ouni188@gmail.com>
+Maintainer: Ouni Karim <ouni188@gmail.com>
+Description: Best theme for your iOS !
+HomePage: https://twitter.com/ka024_
+Icon: file:///Library/Themes/Bionic - Icons.theme/Icon.png

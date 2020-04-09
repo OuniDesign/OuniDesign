@@ -1,0 +1,11 @@
+Package: com.Ounikarim.BionicDARK
+Name: Bionic Dark 
+Version: 1.0.5
+Section: Themes
+Architecture: iphoneos-arm
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Author: Ouni Karim <ouni188@gmail.com>
+Maintainer: Ouni Karim <ouni188@gmail.com>
+Description: make a Darken view !
+HomePage: https://twitter.com/ka024_
+Icon: file:///Library/Themes/Bionic DARK - Icons.theme/Icon.png
